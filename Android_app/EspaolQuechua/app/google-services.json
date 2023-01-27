@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "898714692751",
+    "project_id": "traductormobil",
+    "storage_bucket": "traductormobil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898714692751:android:a73bce048e3e40a53c94fa",
+        "android_client_info": {
+          "package_name": "com.example.espaolquechua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898714692751-162svariffj4adud33sb3opaphkka091.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.espaolquechua",
+            "certificate_hash": "0b5bacfde8043d129aabdc98ec0e9f5a49e1e022"
+          }
+        },
+        {
+          "client_id": "898714692751-2hd8q0jfa10l0ifsu752t50m1rrn9gn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGSRZinbmV_ehXVbF4Bc7O8w5HIai2VpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898714692751-2hd8q0jfa10l0ifsu752t50m1rrn9gn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
