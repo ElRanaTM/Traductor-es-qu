@@ -7,11 +7,10 @@ Si no posee un manejador de contenedores, instale las siguientes dependencias:
 
 *Python:*
 
-**Tensorflow
-Keras-transformer
-Fastapi
-Uvicorn
-**
+**Tensorflow**
+**Keras-transformer**
+**Fastapi**
+**Uvicorn**
 
 *Java Android:*
 
@@ -19,5 +18,5 @@ Uvicorn
 
 Una vez instalado todo esto ejecute *uvicorn main:app --reload * y acceda a *localhost:8000* para crear un servidor local
 
-*David Vargas Latra
-proyecto SIS330 2-2022*
+*David Vargas Latra*
+*proyecto SIS330 2-2022*
